@@ -13,7 +13,7 @@ regex = auto_regex_gen(description)
 print(f"Generated Regex: {regex}")
 
 
-### Step 4: Installing and Using the Library Locally
+### Installing and Using the Library Locally
 
 1. Save the project structure as outlined above.
 2. Navigate to the root directory (where `setup.py` is) and run:
